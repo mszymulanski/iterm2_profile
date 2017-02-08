@@ -1172,9 +1172,9 @@
 	<key>NSWindow Frame SUUpdateAlert</key>
 	<string>410 382 620 392 0 0 1440 900 </string>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>269 35 918 498 0 0 1440 877 </string>
+	<string>170 276 937 512 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>2 10 1439 867 0 0 1440 877 </string>
+	<string>0 4 1434 873 0 0 1440 877 </string>
 	<key>New Bookmarks</key>
 	<array>
 		<dict>
@@ -2762,6 +2762,10 @@
 	</array>
 	<key>NoSyncConfirmBeta</key>
 	<true/>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste</key>
+	<true/>
+	<key>NoSyncDoNotWarnBeforeMultilinePaste_selection</key>
+	<integer>0</integer>
 	<key>NoSyncDoNotWarnBeforePastingOneLineEndingInNewlineAtShellPrompt</key>
 	<true/>
 	<key>NoSyncDoNotWarnBeforePastingOneLineEndingInNewlineAtShellPrompt_selection</key>
@@ -2769,7 +2773,7 @@
 	<key>NoSyncInstallationId</key>
 	<string>C91CB5F6-1D6B-465D-AA16-5B184CBAF8C1</string>
 	<key>NoSyncLastTipTime</key>
-	<real>492212945.36994398</real>
+	<real>494448903.53060198</real>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
 	<true/>
 	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
@@ -2782,6 +2786,8 @@
 	<real>482647398.53908902</real>
 	<key>NoSyncTimeOfLastPromoDownload</key>
 	<real>486870297.40198302</real>
+	<key>NoSyncTipsDisabled</key>
+	<true/>
 	<key>NoSyncTipsToNotShow</key>
 	<array>
 		<string>000</string>
@@ -2824,6 +2830,29 @@
 		<string>0036</string>
 		<string>0037</string>
 		<string>0038</string>
+		<string>0039</string>
+		<string>0040</string>
+		<string>0041</string>
+		<string>0042</string>
+		<string>0043</string>
+		<string>0044</string>
+		<string>0045</string>
+		<string>0046</string>
+		<string>0047</string>
+		<string>0048</string>
+		<string>0049</string>
+		<string>0050</string>
+		<string>0051</string>
+		<string>0052</string>
+		<string>0053</string>
+		<string>0054</string>
+		<string>0055</string>
+		<string>0056</string>
+		<string>0057</string>
+		<string>0058</string>
+		<string>0059</string>
+		<string>0060</string>
+		<string>0061</string>
 	</array>
 	<key>OnlyWhenMoreTabs</key>
 	<true/>
@@ -2839,6 +2868,8 @@
 	<false/>
 	<key>PasteFromClipboard</key>
 	<true/>
+	<key>PasteTabToStringTabStopSize</key>
+	<integer>4</integer>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
@@ -2874,6 +2905,8 @@
 	</dict>
 	<key>PrefsCustomFolder</key>
 	<string>/Users/mszymulanski/iterm2_profile</string>
+	<key>Print In Black And White</key>
+	<true/>
 	<key>PromptOnQuit</key>
 	<true/>
 	<key>QuitWhenAllWindowsClosed</key>
@@ -2893,7 +2926,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2016-08-06T21:49:05Z</date>
+	<date>2016-09-16T18:21:03Z</date>
 	<key>SavePasteHistory</key>
 	<false/>
 	<key>ShowBookmarkName</key>
